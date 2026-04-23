@@ -395,7 +395,7 @@ function showToast(message) {
   toastTimer = setTimeout(() => toast.classList.remove("visible"), 2500);
 }
 
-// ── Scroll behaviour ──────────────────────────────────
+// ── Scroll behavior ───────────────────────────────────
 window.addEventListener("scroll", () => {
   const navbar = document.getElementById("navbar");
   if (window.scrollY > 20) {

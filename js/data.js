@@ -390,7 +390,7 @@ const ITEMS = [
     description:
       "A luxury stainless steel diving watch, inspired by Bond's iconic Omega Seamaster — the ultimate spy accessory.",
     emoji: "⌚",
-    color: "#silver",
+    color: "#c0c0c0",
     tags: ["watch", "luxury", "omega", "accessories"],
     inStock: true,
   },
